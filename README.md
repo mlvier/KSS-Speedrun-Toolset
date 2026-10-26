@@ -1,2 +1,19 @@
 # KSS-Speedrun-Toolset
 スパデラRTA用の総合ツールを目指してます（なんとこれ車輪の再発明）
+
+
+起動方法
+- KSS-RNG-Toolset.exe を実行してください。
+- インストールや追加の画像・フォントファイルは不要です。
+- Windows 10/11 x64 向けです。
+
+操作
+- テンキーの 1, 2, 3, 4, 6, 7, 8, 9 で星の方向を入力します。
+- Backspace で1つ戻り、Enter で入力をリセットします。
+- 画像認識は設定画面からカメラを選択し、テンキー5でON/OFFします。
+- カメラ、色、認識設定は終了時に保存され、次回起動時に復元されます。
+- 設定ファイルは %APPDATA%\KSS RNG Toolset\camera-settings.json に保存されます。
+
+ライセンス
+- 日本語フォント Noto Sans JP は SIL Open Font License 1.1 です。詳細は NotoSansJP-OFL.txt を参照してください。
+- アプリ内の画像素材は実行ファイルに埋め込まれています。
