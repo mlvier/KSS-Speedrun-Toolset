@@ -13,7 +13,4 @@
 - 画像認識は設定画面からカメラを選択し、テンキー5でON/OFFします。
 - カメラ、色、認識設定は終了時に保存され、次回起動時に復元されます。
 - 設定ファイルは %APPDATA%\KSS RNG Toolset\camera-settings.json に保存されます。
-
-ライセンス
-- 日本語フォント Noto Sans JP は SIL Open Font License 1.1 です。詳細は NotoSansJP-OFL.txt を参照してください。
 - アプリ内の画像素材は実行ファイルに埋め込まれています。
