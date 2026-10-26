@@ -15,3 +15,6 @@
 - カメラ、色、認識設定は終了時に保存され、次回起動時に復元されます。
 - 設定ファイルは %APPDATA%\KSS-Speedrun-Toolset\camera-settings.json に保存されます。
 - アプリ内の画像素材は実行ファイルに埋め込まれています。
+
+## 参考にさせていただいたもの
+https://github.com/slash-naf/KSS-RNG-Tool
