@@ -13,7 +13,7 @@
 - Backspace で1つ戻り、Enter で入力をリセットします。
 - 画像認識は設定画面からカメラを選択し、テンキー5でON/OFFします。
 - カメラ、色、認識設定は終了時に保存され、次回起動時に復元されます。
-- 設定ファイルは %APPDATA%\KSS-Speedrun-Toolset\camera-settings.json に保存されます。
+- 設定ファイルは %APPDATA%\KSS-Speedrun-Toolset\settings.json に保存されます。
 - アプリ内の画像素材は実行ファイルに埋め込まれています。
 
 ## 参考にさせていただいたもの
